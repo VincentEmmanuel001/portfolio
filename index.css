@@ -1,0 +1,9 @@
+#profile-image-container {
+        display: block;
+        justify-content: center;
+
+}
+
+#auth-image {
+        border-radius: 50%;
+}
